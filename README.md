@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning `data science` and `back end developing`
   
-- 💞️ I’m looking to collaborate on `DavinciTI`
+- 💞️ I’m looking to collaborate on `data consulting projects`
   
 - ⚡ Fun fact: I love Linux but I work in Windows
 
