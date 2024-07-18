@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love Linux but I work in Windows
 
 >[!NOTE]
->Is a professional account
+>It's a professional account
 
 >[!IMPORTANT]
 >I'm a geek person 
