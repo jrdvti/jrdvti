@@ -11,5 +11,5 @@
 >[!NOTE]
 >Is a professional account
 
->[!NOTE]
+>[!IMPORTANT]
 >I'm a geek person 
