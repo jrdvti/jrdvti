@@ -8,8 +8,8 @@
   
 - ⚡ Fun fact: I love Linux but I work in Windows
 
->[!INFO]
+>[!NOTE]
 >Is a professional account
 
->[!INFO]
+>[!NOTE]
 >I'm a geek person 
